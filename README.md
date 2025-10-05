@@ -31,28 +31,23 @@ code-reviewer/
 │   ├── package.json
 │   └── .env                 # API keys (not pushed to GitHub)
 │
-└── frontend/                # (Optional) React frontend
+└── frontend/                 React frontend
 
 ⚙️ Tech Stack
 
 Backend:
-
 Node.js
-
 Express.js
-
 @google/generative-ai
-
 CORS
-
 dotenv
 
-Frontend (if added):
-
+Frontend:
 React.js
-
 Axios / Fetch API
 
 Version Control:
-
 Git & GitHub
+<img width="1366" height="728" alt="Vite + React - Google Chrome 10_5_2025 11_33_57 AM" src="https://github.com/user-attachments/assets/20d3d768-82fd-431d-8e04-446ddc378736" />
+
+<img width="1366" height="728" alt="Vite + React - Google Chrome 10_5_2025 11_34_16 AM" src="https://github.com/user-attachments/assets/45fc7cff-ceea-4e9a-8a3b-00e5512e1fa5" />
